@@ -1,0 +1,7 @@
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\bin\Debug\HUMAN NUMBER NAME.exe.config
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\bin\Debug\HUMAN NUMBER NAME.exe
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\bin\Debug\HUMAN NUMBER NAME.pdb
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\obj\Debug\HUMAN NUMBER NAME.csprojAssemblyReference.cache
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\obj\Debug\HUMAN NUMBER NAME.csproj.CoreCompileInputs.cache
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\obj\Debug\HUMAN NUMBER NAME.exe
+C:\Users\sirgw\Desktop\HUMAN NUMBER NAME C#\Proiectu in C#\HUMAN NUMBER NAME\HUMAN NUMBER NAME\obj\Debug\HUMAN NUMBER NAME.pdb
