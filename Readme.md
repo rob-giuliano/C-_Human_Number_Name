@@ -34,6 +34,15 @@ We welcome contributions. For smaller changes just open a pull request straight 
 
 ======================================================================
 
+
+License & Copyright
+--------------------
+
+Licensed under the [MIT License](LICENSE)
+
+
+
+
 Donation Project
 ================
 
@@ -46,12 +55,6 @@ Bitcoin: 1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
 Bitcoin Cash: qz7h44sqpn8ud2hv04tw2kgr9ayqu94gngm2tedvrt
 
 Tipeeestream: https://www.tipeeestream.com/rob-giuliano/donation
-
-
-
-License
-========
-Human Number Name is released under the terms of the Gnu/Gpl.
 
 
 
