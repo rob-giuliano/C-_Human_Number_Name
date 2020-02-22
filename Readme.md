@@ -1,7 +1,9 @@
+About
+------
 
 HUMAN NUMBER NAME - C# (version) - is professional numerology calculator write in c# language.
 
-This project was originally written using JetBrains Rider , but I have migrated it to Visual Studio.
+This project was originally written using JetBrains Rider , but i have migrated it to Visual Studio.
 
 
 
