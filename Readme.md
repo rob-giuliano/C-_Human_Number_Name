@@ -35,7 +35,7 @@ We welcome contributions. For smaller changes just open a pull request straight 
 Donation Project
 ================
 
-Project Name: Human.Number.Name C#(version)
+Project Name: Human.Number.Name - C#(version)
 
 Etherium: 0x14996EE0113C46A34b14e4F30197768b174c9486
 
