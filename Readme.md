@@ -1,17 +1,6 @@
-###################################################################
-# Project Name: HUMAN NUMBER NAME
-# ver  1.0
-# Developer: ROB GIULIANO  -a.k.a- PG
-# Etherium:       0x14996EE0113C46A34b14e4F30197768b174c9486
-# Bitcoin:        1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
-# Bitcoin Cash:   qz7h44sqpn8ud2hv04tw2kgr9ayqu94gngm2tedvrt
-# Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
-#####################################################################
 
-
-
-HUMAN NUMBER NAME
-=======================
+HUMAN NUMBER NAME - C# (version)
+================================
 
 This project was originally written using JetBrains Rider , but I have migrated it to Visual Studio.
 
@@ -44,3 +33,25 @@ We welcome contributions. For smaller changes just open a pull request straight 
 
 
 ======================================================================
+
+Donation Project
+================
+
+Project Name: Human.Number.Name C#(version)
+
+Etherium: 0x14996EE0113C46A34b14e4F30197768b174c9486
+
+Bitcoin: 1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
+
+Bitcoin Cash: qz7h44sqpn8ud2hv04tw2kgr9ayqu94gngm2tedvrt
+
+Tipeeestream: https://www.tipeeestream.com/rob-giuliano/donation
+
+
+
+License
+========
+Human Number Name is released under the terms of the Gnu/Gpl.
+
+
+
