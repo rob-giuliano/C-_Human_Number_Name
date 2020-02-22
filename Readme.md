@@ -1,19 +1,17 @@
 
-HUMAN NUMBER NAME - C# (version)
-================================
+HUMAN NUMBER NAME - C# (version) - is professional numerology calculator write in c# language.
 
 This project was originally written using JetBrains Rider , but I have migrated it to Visual Studio.
 
 
 
-License
---------------
-Human Number Name (C#) is released under the terms of the Gnu/Gpl.
-
-
 
 How is Work
 ---------------------
+
+![](images/1.png)
+
+
 Go to >>> Human Number Name(folder) >>> bin >>> Debug >>> 
 (double-click)HUMAN NUMBER NAME.exe
 
